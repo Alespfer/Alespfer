@@ -1,4 +1,4 @@
-<div id="top">
+<div id="top"></div>
 <p align="right">
   <a href="README.md">🇬🇧 English</a> | 
   <a href="README_es.md">🇪🇸 Español</a> | 
