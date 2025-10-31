@@ -8,7 +8,7 @@
 
 <br>
 
-Especialista en **Estrategia de Datos** y **Gestión de Proyectos IT** con una trayectoria singular. 
+Especialista en **Estrategia de Datos** y **Gestión de Proyectos IT** con una historia única. 
 
 Mi viaje, desde la investigación doctoral en historia hasta el mundo IT, me ha entrenado para ver más allá del código. Me ha enseñado a deconstruir problemas complejos, entender su contexto y traducirlos en soluciones tecnológicas claras, pragmáticas y orientadas a resultados.
 
